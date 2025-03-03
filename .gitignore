@@ -1,0 +1,14 @@
+# maven
+
+target/
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+# idea
+.idea
+.idea\\.plugins\\autobuildcode\\buildcode_temp
+*.iml
+
